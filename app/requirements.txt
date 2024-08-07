@@ -1,0 +1,5 @@
+aiohttp
+aiogram
+peewee
+loguru
+emoji

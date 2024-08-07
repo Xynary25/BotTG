@@ -1,0 +1,10 @@
+скачиваем python3.7+
+
+вначале заходим в data/config.py
+задаем свои значения!
+
+pip install -r requirements.txt
+установка модулей
+
+python bot.py
+запуск бота
